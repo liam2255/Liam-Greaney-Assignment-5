@@ -14,8 +14,8 @@ public class Exercise1{
 			System.out.println("She weighs "+weight+" "+weighttype);
 			System.out.println("Her favourite colour is "+colour);
 
-            //uncomment the line of code below when running Index
-			//Index.main(null);
+            //comment the line of code below to run this code without bringing up index
+			Index.main(null);
 			}
 
         }
