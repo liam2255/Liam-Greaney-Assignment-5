@@ -22,8 +22,8 @@ public class Exercise3{
 							System.out.println(num+" is equal to 21");
 							}
 
-            //uncomment the line of code below when running Index
-			//Index.main(null);
+            //comment the line of code below to run this code without bringing up index
+			Index.main(null);
 			}
 
         }
