@@ -24,8 +24,8 @@ public class Exercise2{
 			System.out.println(num1+" - "+num2+" = "+minus);
 			System.out.println(num1+" * "+num2+" = "+multi);
 
-            //uncomment the line of code below when running Index
-			//Index.main(null);
+            //comment the line of code below to run this code without bringing up index
+			Index.main(null);
 			}
 
         }
