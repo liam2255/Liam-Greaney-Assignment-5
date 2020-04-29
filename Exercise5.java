@@ -18,8 +18,8 @@ public class Exercise5{
        		System.out.println("The Average is " + sum);
        		System.out.println("The Total is " + total);
 
-            //uncomment the line of code below when running Index
-			//Index.main(null);
+            //comment the line of code below to run this code without bringing up index
+			Index.main(null);
 			}
 
         }
