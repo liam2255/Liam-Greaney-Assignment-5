@@ -36,8 +36,8 @@ public class Exercise6{
 
 			}
 
-            //uncomment the line of code below when running Index
-			//Index.main(null);
+            //comment the line of code below to run this code without bringing up index
+			Index.main(null);
 			}
 
         }
