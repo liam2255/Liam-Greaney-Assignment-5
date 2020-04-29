@@ -23,8 +23,8 @@ public class Exercise7{
 			System.out.print("\n"+numbers[i]);
 	}
 	System.out.println();
-    //uncomment the line of code below when running Index
-	//Index.main(null);
+    //comment the line of code below to run this code without bringing up index
+	Index.main(null);
 }
 
 
